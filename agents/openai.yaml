@@ -1,0 +1,8 @@
+interface:
+  display_name: "层叠纸雕旅行海报"
+  short_description: "旅行照片转为立体层叠纸雕，突出纸层间距、纤维肌理、四角留白与底部居中标题"
+  default_prompt: "使用 $layered-paper-travel 将上传照片制作成上半摄影、下半立体纸雕的旅行海报。"
+  icon_small: "../assets/icon.svg"
+  icon_large: "../assets/icon.svg"
+policy:
+  allow_implicit_invocation: true
